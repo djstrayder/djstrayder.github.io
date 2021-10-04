@@ -1,0 +1,18 @@
+[
+    {"flight_number": "FZ8849","origin": "Dubai", "time":"11:55","airline":"Lufthansa","status":"departed"},
+    {"flight_number": " IX371","origin": "Calicut","time":"12:00","airline":"Gulf AIR","status":"departed"},
+    {"flight_number": "GF505","origin": "Dubai","time":"13:00","airline":"Gulf AIR","status":"departed"},
+    {"flight_number": "E5612","origin": "Cairo","time":"13:15","airline":"Egyprian AIR","status":"cancelled"},
+    {"flight_number": "GF963","origin": "Mlyniv","time":"13:20","airline":"Gulf AIR","status":"departed"},
+    {"flight_number": "EK839","origin": "Istanbul","time":"15:00","airline":"Gulf AIR","status":"departed"},
+    {"flight_number": "GF7044","origin": "Amman", "time":"16:30","airline":"Gulf AIR","status":"departed"},
+    {"flight_number": " GF070","origin": "Dubai","time":"16:55","airline":"Emirates AIR","status":"departed"},
+    {"flight_number": "GF155","origin": "Trabson","time":"17:00","airline":"Emirates AIR","status":"departed"},
+    {"flight_number": "MS920","origin": "Oxit","time":"17:15","airline":"Emirates AIR","status":"departed"},
+    {"flight_number": "G9105","origin": "London","time":"17:20","airline":"Lufthansa","status":"departed"},
+    {"flight_number": "GF002","origin": "Manas", "time":"17:55","airline":"Gulf AIR","status":"on time"},
+    {"flight_number": " GF7096","origin": "Calicut","time":"18:00","airline":"Lufthansa","status":"on time"},
+    {"flight_number": "GF2184","origin": "Dubai","time":"18:10","airline":"Lufthansa","status":"on time"},
+    {"flight_number": "GF044","origin": "Cairo","time":"18:15","airline":"Egyprian AIR","status":"on time"},
+    {"flight_number": "GF2168","origin": "Abu Dhabi","time":"18:20","airline":"Gulf AIR","status":"on time"}
+]
