@@ -1,14 +1,12 @@
+
 {"planes":[
-    {"flight_number": "GF002","origin": "Manas","destination":"Bahrain","time":"17:55","airline":"Gulf AIR","status":"on time","longitude":"25.99497","latitude":"10.50808","speed":"900"},
-    {"flight_number": "GF7096","origin": "Calicut","destination":"Bahrain","time":"18:00","airline":"Lufthansa","status":"on time","longitude":"21.30269","latitude":"32.61645","speed":"720"},
-    {"flight_number": "GF2184","origin": "Bahrain","destination":"Dubai","time":"18:10","airline":"Lufthansa","status":"Departed","longitude":"75.49413","latitude":"45.5421","speed":"850"},
-    {"flight_number": "GF044","origin": "Bahrain","destination":"Cairo","time":"18:15","airline":"Egyprian AIR","status":"Departed","longitude":"39.98585","latitude":"45.50659","speed":"800"},
-    {"flight_number": "GF2184","origin": "Bahrain","destination":"USA","time":"18:10","airline":"Lufthansa","status":"on time","longitude":"40.93163","latitude":"-20.81726","speed":"940"},
-    {"flight_number": "GF044","origin": "Cairo","destination":"Bahrain","time":"18:15","airline":"Egyprian AIR","status":"on time","longitude":"91.5183","latitude":"-8.78081","speed":"700"},
-    {"flight_number": "GF9841","origin": "Urkaine","destination":"Bahrain","time":"18:45","airline":"Lufthansa","status":"delayed","longitude":"41.5183","latitude":"-5.78081","speed":"630"},
-    {"flight_number": "GF6548","origin": "Bulgaria","destination":"Bahrain","time":"18:15","airline":"Egyprian AIR","status":"on time","longitude":"31.5183","latitude":"23.78081","speed":"990"},
-    {"flight_number": "GF98463","origin": "Greece","destination":"Bahrain","time":"16:25","airline":"Egyprian AIR","status":"Departed","longitude":"-11.5183","latitude":"44.78081","speed":"750"},
-    {"flight_number": "GF324","origin": "Bahrain","destination":"Spain","time":"19:15","airline":"Gulf AIR","status":"on time","longitude":"51.5183","latitude":"34.78081","speed":"1050"},
-    {"flight_number": "GF654","origin": "Bahrain","destination":"UAE","time":"18:54","airline":"Gulf AIR","status":"cancelled","longitude":"-10.5183","latitude":"54.78081","speed":"984"}
+    {"flight_number": "GF002","origin": "Manas", "time":"17:55","airline_logo":"https://api.bac.bh/api/fids/GF.png","airline": "Gulf Air", "status":"on time","flight-status": "arrivals","longitude":"25.99497","latitude":"50.50808","direction": "45"},
+    {"flight_number": " GF7096","origin": "Calicut","time":"18:00","airline_logo": "https://api.bac.bh/api/fids/LH.png","airline": "Lufthansa", "status":"on time","flight-status": "departures","longitude":"21.30269","latitude":"70.63696","direction": "25"},
+    {"flight_number": "GF2184","origin": "Dubai","time":"18:10","airline_logo": "https://api.bac.bh/api/fids/LH.png","airline": "Lufthansa","status":"on time","flight-status": "arrivals","longitude":"36.49413","latitude":"57.5421","direction": "29"},
+    {"flight_number": "GF044","origin": "Cairo","time":"18:15","airline_logo":"https://api.bac.bh/api/fids/MS.png","airline": "EgyptAir","status":"on time","flight-status": "departures","longitude":"39.98585","latitude":"45.50659","direction": "45"},
+    {"flight_number": "GF2184","origin": "Madrid","time":"18:10","airline_logo": "https://api.bac.bh/api/fids/LH.png","airline": "Lufthansa","status":"on time","flight-status": "arrivals","longitude":"40.93163","latitude":"83.81726","direction": "78"},
+    {"flight_number": "GF044","origin": "Tokio","time":"18:15","airline_logo":"https://api.bac.bh/api/fids/MS.png","airline": "EgyptAir","status":"on time","flight-status": "departures","longitude":"41.5183","latitude":"74.78081","direction": "200"},
+    {"flight_number": "GF2168","origin": "Abu Dhabi","time":"18:20","airline_logo":"https://api.bac.bh/api/fids/GF.png","airline": "Gulf Air", "status":"on time","flight-status": "arrivals","longitude":"41.42079","latitude":"73.5783","direction": "108"},
+    {"flight_number": "GF2168","origin": "Keiv","time":"18:20","airline_logo":"https://api.bac.bh/api/fids/GF.png","airline": "Gulf Air", "status":"on time","flight-status": "departures","longitude":"42.08414","latitude":"50.6260439","direction": "135"}
     ]
-}
+}    
