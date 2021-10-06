@@ -1,6 +1,6 @@
 
 {"planes":[
-    {"flight_number": "GF002","origin": "Manas", "time":"17:55","airline_logo":"https://api.bac.bh/api/fids/GF.png","airline": "Gulf Air", "status":"on time","flight-status": "arrivals","longitude":"25.99497","latitude":"50.50808","direction": "45"},
+    {"flight_number": "GF002","origin": "Manas", "time":"17:55","airline_logo":"https://api.bac.bh/api/fids/GF.png","airline": "Gulf Air", "status":"on time","flight-status": "arrivals","longitude":"35.99497","latitude":"40.50808","direction": "45"},
     {"flight_number": " GF7096","origin": "Calicut","time":"18:00","airline_logo": "https://api.bac.bh/api/fids/LH.png","airline": "Lufthansa", "status":"on time","flight-status": "departures","longitude":"21.30269","latitude":"70.63696","direction": "25"},
     {"flight_number": "GF2184","origin": "Dubai","time":"18:10","airline_logo": "https://api.bac.bh/api/fids/LH.png","airline": "Lufthansa","status":"on time","flight-status": "arrivals","longitude":"36.49413","latitude":"57.5421","direction": "29"},
     {"flight_number": "GF044","origin": "Cairo","time":"18:15","airline_logo":"https://api.bac.bh/api/fids/MS.png","airline": "EgyptAir","status":"on time","flight-status": "departures","longitude":"39.98585","latitude":"45.50659","direction": "45"},
