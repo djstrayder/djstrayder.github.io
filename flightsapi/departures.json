@@ -1,7 +1,7 @@
 [
     {"time":"10:15","origin": "Cairo","flight_number": "E5612","airline":"Egyprian AIR","status":"cancelled"},
     {"time":"11:30","origin": "Amman","flight_number": "GF7044","airline":"Gulf AIR","status":"departed"},
-    {"time":"12:15","origin": "Cairo","flight_number": "GF044","airline":"Egyprian AIR","status":"on time"},
+    {"time":"12:15","origin": "Cairo","flight_number": "GF044","airline":"Egyprian AIR","status":"departed"},
     {"time":"13:20","origin": "London","flight_number": "G9105","airline":"Lufthansa","status":"departed"},
     {"time":"14:00","origin": "Dubai","flight_number": "FZ8849","airline":"Lufthansa","status":"departed"},
     {"time":"14:30","origin": "Calicut","flight_number": " IX371","airline":"Gulf AIR","status":"departed"},
@@ -14,5 +14,5 @@
     {"time":"18:40","origin": "Manas","flight_number": "GF002","airline":"Gulf AIR","status":"landed"},
     {"time":"19:10","origin": "Calicut","flight_number": " GF7096","airline":"Lufthansa","status":"on time"},
     {"time":"19:50","origin": "Dubai","flight_number": "GF2184","airline":"Lufthansa","status":"on time"},
-    {"time":"20:20","origin": "Abu Dhabi","flight_number": "GF2168","airline":"Gulf AIR","status":"departed"}
+    {"time":"20:20","origin": "Abu Dhabi","flight_number": "GF2168","airline":"Gulf AIR","status":"on time"}
 ]
