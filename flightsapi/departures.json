@@ -6,7 +6,7 @@
     {"time":"14:00","origin": "Dubai","flight_number": "FZ8849","airline":"Lufthansa","status":"departed"},
     {"time":"14:30","origin": "Calicut","flight_number": " IX371","airline":"Gulf AIR","status":"departed"},
     {"time":"15:00","origin": "Dubai","flight_number": "GF505","airline":"Gulf AIR","status":"departed"},
-    {"time":"15:30","origin": "Kiev","flight_number": "GF963","airline":"Gulf AIR","status":"departed"},
+    {"time":"15:30","origin": "Kyiv","flight_number": "GF963","airline":"Gulf AIR","status":"departed"},
     {"time":"16:00","origin": "Istanbul","flight_number": "EK839","airline":"Gulf AIR","status":"departed"},
     {"time":"16:45","origin": "Dubai","flight_number": " GF070","airline":"Emirates AIR","status":"departed"},
     {"time":"17:10","origin": "Trabson","flight_number": "GF155","airline":"Emirates AIR","status":"departed"},
