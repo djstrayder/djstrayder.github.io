@@ -8,7 +8,7 @@
     {"time":"16:30","origin": "Amman","flight_number": "GF7044","airline":"Gulf AIR","status":"landed"},
     {"time":"16:55","origin": "Dubai","flight_number": " GF070","airline":"Emirates AIR","status":"landed"},
     {"time":"17:00","origin": "Trabson","flight_number": "GF155","airline":"Emirates AIR","status":"landed"},
-    {"time":"17:15","origin": "Kiev","flight_number": "MS920","airline":"Emirates AIR","status":"landed"},
+    {"time":"17:15","origin": "Kyiv","flight_number": "MS920","airline":"Emirates AIR","status":"landed"},
     {"time":"17:20","origin": "London","flight_number": "G9105","airline":"Lufthansa","status":"landed"},
     {"time":"17:55","origin": "Manas","flight_number": "GF002","airline":"Gulf AIR","status":"early"},
     {"time":"18:00","origin": "Calicut","flight_number": " GF7096","airline":"Lufthansa","status":"cancelled"},
